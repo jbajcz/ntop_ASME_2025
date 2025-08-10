@@ -52,7 +52,7 @@ Arguments.append(nTopFilePath)      #.ntop notebook file path
 #initialize iteration counter for data generation loops
 iteration = 0
 #define file path name for CSV to store data
-csv_file_path = "nTop ASME Hackathon Data.csv"
+csv_file_path = "Generated Data.csv"
 
 #use nested for loops to iterate through parameters
 for xSize in np.linspace(10,25,5):

@@ -4,7 +4,7 @@
 1. **Install Python and required libraries**  
    ```bash
    pip install tensorflow tensorflow-probability scikit-learn numpy pandas
-````
+    ```
 
 2. **Verify GPU access**
 

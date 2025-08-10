@@ -3,3 +3,4 @@
 \env
 *.json
 *.csv
+\keras_tuner_dir

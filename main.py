@@ -8,7 +8,7 @@ import numpy as np
 #Assuming this script, ntop file, and json files will be in the same folder
 Current_Directory = os.path.dirname(os.path.realpath('__file__')) 
 exePath = r"C:/Program Files/nTopology/nTopology/nTopCL.exe"  #nTopCL path
-nTopFilePath = r"nTop_ASME_Hackathon_HEX.ntop"   #nTop notebook file name (should be in the same directory as this file)
+nTopFilePath = r"nTop/nTop_ASME_Hackathon_HEX.ntop"   #nTop notebook file name (should be in the same directory as this file)
 Input_File_Name = "input.json"      #JSON input file name to be saved as
 Output_File_Name = "output.json"       #JSON output file name to be saved as
 

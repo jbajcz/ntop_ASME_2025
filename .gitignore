@@ -4,3 +4,6 @@
 *.json
 *.csv
 \keras_tuner_dir
+*.deb
+\wsl-env
+*.deb.1

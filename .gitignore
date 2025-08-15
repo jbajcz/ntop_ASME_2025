@@ -8,5 +8,5 @@ train1.py
 surrogate_physics_model.h5
 cuda*
 wsl-env
-
->>>>>>> 043980c752e95af924a7eb190164e9f0307d586f
+*.h5
+scaler*

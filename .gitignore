@@ -4,9 +4,6 @@
 *.json
 *.csv
 \keras_tuner_dir
-train1.py
-surrogate_physics_model.h5
-cuda*
-wsl-env
-*.h5
-scaler*
+*.deb
+\wsl-env
+*.deb.1

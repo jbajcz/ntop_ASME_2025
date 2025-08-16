@@ -4,10 +4,6 @@
 *.json
 *.csv
 \keras_tuner_dir
-<<<<<<< HEAD
 *.deb
 \wsl-env
 *.deb.1
-=======
-train1.py
->>>>>>> 043980c752e95af924a7eb190164e9f0307d586f

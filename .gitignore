@@ -7,3 +7,4 @@
 *.deb
 \wsl-env
 *.deb.1
+~$*
